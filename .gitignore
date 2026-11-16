@@ -1,0 +1,4 @@
+node_modules/
+dist/
+# Bevroren kopieën van klantbestanden: nooit in git (de fork is publiek)
+test/lokaal/
